@@ -1,6 +1,6 @@
 # Hello there, I'm Rares!
 
-Welcome to my GitHub profile! I'm a student passionate about Cyber Security and many more.
+Welcome to my GitHub profile! I'm a student passionate about Everything Security and many more.
 
 ## What I'm Learning
 - Cyber Security

@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm a student passionate about Everything Security
 - I'm a car enthusiast
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=knownasrares&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaresGoidescu&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knownasrares&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaresGoidescu&layout=compact&theme=radical)
 
 Thanks for stopping by!

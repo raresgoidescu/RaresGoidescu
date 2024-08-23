@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a student at Politehnica University of Buchare
 - I like to swim
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaresGoidescu&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raresgoidescu&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaresGoidescu&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raresgoidescu&layout=compact&theme=radical)
 
 Thanks for stopping by!
